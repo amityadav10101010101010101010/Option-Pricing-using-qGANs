@@ -5,17 +5,7 @@ The Black-Scholes model assumes that the spot price at maturity Sₜ for a Europ
 
 ![image](https://user-images.githubusercontent.com/56102543/176603871-c8a287a5-2d17-4fee-b9b5-84d74a1996e5.png)
 
-where the probabilities <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <msubsup>
-    <mi>p</mi>
-    <mrow data-mjx-texclass="ORD">
-      <mi>&#x3B8;</mi>
-    </mrow>
-    <mrow data-mjx-texclass="ORD">
-      <mi>j</mi>
-    </mrow>
-  </msubsup>
-</math>, for j\in \left\{0, \ldots, {2^n-1} \right\}  , represent a model of the target distribution.
+where the probabilities ![image](https://user-images.githubusercontent.com/56102543/176604235-7a8f8a2b-4c72-4237-bdfc-e2c29bbbe4c1.png) for ![image](https://user-images.githubusercontent.com/56102543/176604176-6656c7b5-47f8-4d45-9e12-593780431fed.png) , represent a model of the target distribution.
  Then the trained uncertainty model can be used to evaluate the expectation value of the option’s payoff function with Quantum Amplitude Estimation.
  Next, we plot the trained probability distribution and, for reasons of comparison, also the target probability distribution.
  
