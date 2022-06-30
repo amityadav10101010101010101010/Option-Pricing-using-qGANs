@@ -8,7 +8,8 @@ A quantum Generative Adversarial Network (qGAN) can facilitate the pricing of a 
  ![image](https://user-images.githubusercontent.com/56102543/176602710-401fd5cb-bcbf-470a-aa83-0ec8ba7b5d78.png)
 
  After that, the trained uncertainty model can be used to evaluate the expectation value of the option’s payoff function analytically and with Quantum Amplitude Estimation.
- ![image](https://user-images.githubusercontent.com/56102543/176602785-2eda2e7b-9827-4c80-8254-1c85bf9e7af4.png)
+
+![image](https://user-images.githubusercontent.com/56102543/176602785-2eda2e7b-9827-4c80-8254-1c85bf9e7af4.png)
  
  The Result we have recieved were.
  Exact value:        	0.9805
