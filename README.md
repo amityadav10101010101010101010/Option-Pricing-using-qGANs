@@ -16,6 +16,9 @@ where the probabilities ![image](https://user-images.githubusercontent.com/56102
 ![image](https://user-images.githubusercontent.com/56102543/176602785-2eda2e7b-9827-4c80-8254-1c85bf9e7af4.png)
  
  The Result we have recieved were.
+ 
  Exact value:        	0.9805
+ 
 Estimated value:    	0.9638
+
 Confidence interval:	[0.8495, 1.0781]
